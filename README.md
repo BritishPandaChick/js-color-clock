@@ -1,11 +1,15 @@
 # JavaScript Color Clock
-CodePlayer Make a JavaScript color clock using Vanilla JavaScript project. Made with HTML, CSS, and JavaScript.
+A color clock that changes the background color when the hex code combination changes
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 
 ## Instructions
-Clone repo or download zip file. Open index.html file in your browser.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone repo or download zip file. 
+2. Open index.html file in your browser.
+3. You will see a hex code in the center of the page. Every few seconds, the last digit in the hex code combination will change. When the last digit gets to 9, the background color will change.
 
 ## Acknowledgements 
 * TheCodePlayer.com
